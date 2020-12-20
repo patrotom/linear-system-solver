@@ -5,7 +5,7 @@ The repository contains a simple implementation of two iterative methods to solv
 * Jacobi method
 * Gauss-Seidel method
 
-The code is located in the [lyn_sys_solver.py](lyn_sys_solver.py) script. It is a simple **Python 3** script. To run it:
+The code is located in the `lyn_sys_solver.py` script. It is a simple **Python 3** script. To run it:
 
 ``` shell
 chmod 755 lyn_sys_solver.py
